@@ -43,7 +43,7 @@
 ![Create Pulsedive account](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/pulsedive.png)
 
 <p align="center">
-<b>Next, I downloaded VirtualBox onto my local laptop to facilitate the running of virtual machines. Subsequently, I obtained both Windows Server 2022 and Windows 10 for this lab at no cost. I proceeded to configure the Windows Server 2022 with Active Directory, DNS, and DHCP. Additionally, I joined the Windows 10 PC to the domain. While the steps to configure these Windows Server services and Windows 10 are beyond the scope of this lab, further details can be found in the associated lab documentation here. </b> <br/>
+<b>Next, I downloaded VirtualBox onto my local laptop to facilitate the running of virtual machines. Subsequently, I obtained both Windows Server 2022 and Windows 10 for this lab at no cost. I proceeded to configure the Windows Server 2022 with Active Directory, DNS, and DHCP. Additionally, I joined the Windows 10 PC to the domain. While the steps to configure these Windows Server services and Windows 10 are beyond the scope of this lab, further details can be found in the associated lab documentation [Securing Windows Server and Active Directory: A Comprehensive Home Lab Project](https://github.com/YourUsername/Securing-Windows-Server-and-AD) </b> <br/>
 </p>
 
 ![Download virtualbox](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/virtualbox%20dw.png)
