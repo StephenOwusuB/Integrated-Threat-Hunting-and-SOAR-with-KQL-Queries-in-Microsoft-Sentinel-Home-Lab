@@ -56,3 +56,5 @@
 <p align="center">
 <b>The next thing I'll do is create a resource group in azure. It's essential to create a new Resource Group to house all future resources. In Azure, a Resource Group serves as a logical container for tools, services, configurations, and more, allowing them to be managed collectively. This means they can be created or deleted simultaneously, sharing the same lifecycle. If resources are placed outside of a specific Resource Group, they will persist even if the Resource Group is deleted. Grouping resources in this way simplifies their management. Ensure you are using the correct account associated with your subscription to avoid encountering errors when creating resource groups. Search for 'Resource Group' on the Azure dashboard and click on 'Create' to begin the process. Name the resource group 'Azure Sentinel Training Lab RG', set the region to your region in my case I will set it to 'East US', then click 'Review + create' and 'Create' to validate and create the resource group.</b> <br/>
 </p>
+
+![Create Resource Group](https://user-images.githubusercontent.com/108043108/225348950-5d9c01fa-a707-4813-a6f3-012c703c41df.JPG)
