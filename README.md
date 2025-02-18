@@ -35,15 +35,21 @@
 <h2 align="center">Project walk-through</h2>
 
 <p align="center">
-<b>The first thing I am going to do is create a Microsoft Azure account, this will be the cloud environment I'll use to provision my resources. I will take advantage of the $200 credit I'll receive to do this project. The resources I'm using are not very resource heavy, so my credit can be used towards future projects. Also included is the website I will be using for my IP geolocation data. </b> <br/>
+<b>The first thing I am going to do is create a Microsoft Azure account, this will be the cloud environment I'll use to provision my resources. I will take advantage of the $200 credit I'll receive to do this project. The resources I'm using are not very resource heavy, so my credit can be used towards future projects. In addition, I signed up to Pulsedive for free. </b> <br/>
 </p>
 
 ![Create_Azure_Subscription](https://user-images.githubusercontent.com/108043108/225348757-c41744df-2be1-4ffc-87a6-aa258a4102ef.JPG)
 ![Set_Up_Completed](https://user-images.githubusercontent.com/108043108/225348950-5d9c01fa-a707-4813-a6f3-012c703c41df.JPG)
-![Download virtualbox](https://user-images.githubusercontent.com/108043108/225348950-5d9c01fa-a707-4813-a6f3-012c703c41df.JPG)
-![Download Windows Server 2022](https://user-images.githubusercontent.com/108043108/225348950-5d9c01fa-a707-4813-a6f3-012c703c41df.JPG)
-![Download Windows 10](https://user-images.githubusercontent.com/108043108/225348950-5d9c01fa-a707-4813-a6f3-012c703c41df.JPG)
 ![Create Pulsedive account](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/pulsedive.png)
+
+<p align="center">
+<b>Next, I downloaded VirtualBox onto my local laptop to facilitate the running of virtual machines. Subsequently, I obtained both Windows Server 2022 and Windows 10 for this lab at no cost. I proceeded to configure the Windows Server 2022 with Active Directory, DNS, and DHCP. Additionally, I joined the Windows 10 PC to the domain. While the steps to configure these Windows Server services and Windows 10 are beyond the scope of this lab, further details can be found in the associated lab documentation here. </b> <br/>
+</p>
+
+![Download virtualbox](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/virtualbox%20dw.png)
+![Download Windows Server 2022](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/server2022.png)
+![Download Windows 10](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/win10%20dw.png)
+
 
 <br />
 <br />
