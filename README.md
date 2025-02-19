@@ -106,3 +106,15 @@
 ![Setup Azure Entra ID](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2019.png)
 ![Setup Azure Entra ID](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2020.png)
 
+
+<p align="center">
+<b>To install the Threat Connector into Sentinel, go to the Content hub and search for "Threat Intelligence". Navigate to the Data connector and select "Threat Intelligence TAXII". Visit Pulsedive, which can be integrated into Sentinel and Myst. On the Pulsedive page, select the API tab at the top, then select "Indicators". Scroll down to find the API root URL, API key, and Collection IDs. Copy the API root URL, username, and API key from this page, and paste them into Sentinel. Note that the password is the API key. Next, select "Collections" on the left tab and copy the test collection. Click on "Add" to add Pulsedive. In a few minutes, you will see the data from the connector.</b> <br/>
+
+![Install Threat Intelligence](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2021.png)
+![Copy API keys from Pulsedive](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2022.png)
+![Copy Root URL from Pulsedive](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2024.png)
+![Setup Threat Intelligence](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2025.png)
+![Complete Setup Threat Intelligence](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2026.png)
+
+  
+</p>
