@@ -81,9 +81,20 @@
 <p align="center">
 <b>Next, I will set up the Microsoft Training Lab solution. Unfortunately, I couldn't find it in the content management. Instead, I installed other services such as Azure Activity, Azure Entra ID, and Threat Intelligence TAXII. Installing the data connector involves two steps: first, install the connector, and second, connect the connector to Sentinel. To install Azure Activity, select Content management in Microsoft Sentinel. Click on Content hub. Search for Azure Activity and click on Install. I noticed an issue with the Azure data connector sometimes when you connect it, it sits there spinning. To connect the Azure Activity data connector: On the left tab, scroll down to Data connectors and select Azure Activity. Click on Open connector page. Go to the Resource group section and click on the resource group. Select Activity log. Click on Export activity log. Click on Add diagnostics. Specify the diagnostics name (e.g., Azure Activity). Check all options except for Archive, Stream, and Send to partner solution. Click on Save.
 
-  ![Create Sentinel](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%201.png)
-![Setup Sentinel](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%202.png)
-![Setup Complete Sentinel](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%203.png)
+  ![Install Azure Activity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%205.png)
+![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%206.png)
+![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%207.png)
+![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%208.png)
+![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%209.png)
+![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2010.png)
+![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2011.png)
+![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2012.png)
+![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2013.png)
+![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2014.png)
+![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2015.png)
+![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2016.png)
+![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2017.png)
+
 </b> <br/>
 </p>
 
