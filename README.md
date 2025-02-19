@@ -67,4 +67,13 @@
 ![Create Resource Group](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/deploy%20RG%201.png)
 ![Setup Complete for Resource Group](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/deploy%20RG%202.png)
 
+<p align="center">
+<b>Return to the Azure main page and search for "Microsoft Sentinel". Click on "Create Microsoft Sentinel" or simply "Create". When setting up Microsoft Sentinel for the first time, you receive a free trial for 31 days. Select the Log Analytics workspace you created and click on "Add". This action will add the workspace to Microsoft Sentinel. Once Azure completes the addition process, you will see a notification stating "Successfully added Microsoft Sentinel."</b> <br/>
+</p>
+
+![Create Sentinel](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/deploy%20RG%201.png)
+![Setup Complete for Resource Group](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/deploy%20RG%202.png)
+
+
+
 
