@@ -64,8 +64,11 @@
 <b>Return to the Azure main page and search for "Log Analytics Workspace". Click on "Create". Specify the subscription (in this case, Azure subscription 1). Select your resource group. Name your Log Analytics Workspace (for example, sentinel-training-lab-ws). Choose the same location as the resource group (East US). You will see "Validation passed". Click on "Create". You will see "Deployment was successful".</b> <br/>
 </p>
 
-![Create Resource Group](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/deploy%20RG%201.png)
-![Setup Complete for Resource Group](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/deploy%20RG%202.png)
+![Create Log Analytics Workspace](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/Log%20analytics%20workspaces%201.png)
+![Setup Log Analytics Workspace](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/log%20analytics%20workspaces%202.png)
+![Setup Log Analytics Workspace](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/log%20analytics%20workspace%203.png)
+![Setup Complete for Log Analytics Workspace](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/log%20analytics%20workspace%204.png)
+
 
 <p align="center">
 <b>Return to the Azure main page and search for "Microsoft Sentinel". Click on "Create Microsoft Sentinel" or simply "Create". When setting up Microsoft Sentinel for the first time, you receive a free trial for 31 days. Select the Log Analytics workspace you created and click on "Add". This action will add the workspace to Microsoft Sentinel. Once Azure completes the addition process, you will see a notification stating "Successfully added Microsoft Sentinel."</b> <br/>
