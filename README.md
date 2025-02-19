@@ -98,4 +98,7 @@
 </b> <br/>
 </p>
 
+<p align="center">
+<b>To install the Entra ID connector, navigate to Sentinel and select your workspace. Scroll down to the Content hub and search for Entra ID. Click on Install. Once the connector is installed, we will need to configure a few settings. It may take 5 to 10 minutes for the connector to show as connected. Scroll to Data connectors and click on Open connector page. Check the following options: Sign-in logs, Audit logs, Non-interactive user sign-ins log, Service principal sign-in log, Provisioning logs, User risk events, and Risky users. Click on Apply changes. Navigate back to the Data connectors page and click on Refresh.</b> <br/>
+</p>
 
