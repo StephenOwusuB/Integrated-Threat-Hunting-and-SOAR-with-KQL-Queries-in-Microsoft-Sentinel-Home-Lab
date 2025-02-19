@@ -81,7 +81,7 @@
 <p align="center">
 <b>Next, I will set up the Microsoft Training Lab solution. Unfortunately, I couldn't find it in the content management. Instead, I installed other services such as Azure Activity, Azure Entra ID, and Threat Intelligence TAXII. Installing the data connector involves two steps: first, install the connector, and second, connect the connector to Sentinel. To install Azure Activity, select Content management in Microsoft Sentinel. Click on Content hub. Search for Azure Activity and click on Install. I noticed an issue with the Azure data connector sometimes when you connect it, it sits there spinning. To connect the Azure Activity data connector: On the left tab, scroll down to Data connectors and select Azure Activity. Click on Open connector page. Go to the Resource group section and click on the resource group. Select Activity log. Click on Export activity log. Click on Add diagnostics. Specify the diagnostics name (e.g., Azure Activity). Check all options except for Archive, Stream, and Send to partner solution. Click on Save.
 
-  ![Install Azure Activity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%205.png)
+![Install Azure Activity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%205.png)
 ![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%206.png)
 ![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%207.png)
 ![Setup Azure Acitivity](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%208.png)
@@ -101,4 +101,8 @@
 <p align="center">
 <b>To install the Entra ID connector, navigate to Sentinel and select your workspace. Scroll down to the Content hub and search for Entra ID. Click on Install. Once the connector is installed, we will need to configure a few settings. It may take 5 to 10 minutes for the connector to show as connected. Scroll to Data connectors and click on Open connector page. Check the following options: Sign-in logs, Audit logs, Non-interactive user sign-ins log, Service principal sign-in log, Provisioning logs, User risk events, and Risky users. Click on Apply changes. Navigate back to the Data connectors page and click on Refresh.</b> <br/>
 </p>
+
+![Install Azure Entra ID](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%205.png)
+![Setup Azure Entra ID](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%206.png)
+![Setup Azure Entra ID](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%207.png)
 
