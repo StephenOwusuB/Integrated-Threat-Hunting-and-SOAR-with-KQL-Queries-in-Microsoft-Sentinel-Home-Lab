@@ -138,6 +138,9 @@
 ![Setup Watchlist](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2046.png)
 ![Setup Watchlist](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2047.png)
 ![Setup Watchlist](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2048.png)
+![Setup High count of connections by client](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2049.png)
+![Setup High count of connections by client](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2050.png)
+![Complete setup of High count of connections by client](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2051.png)
 
 
 
