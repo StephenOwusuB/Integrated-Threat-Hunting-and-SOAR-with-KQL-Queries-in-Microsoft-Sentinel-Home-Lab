@@ -147,13 +147,26 @@
 ![Setup UEBA](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2059.png)
 ![Setup UEBA](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2060.png)
 ![Setup UEBA](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2061.png)
+![Setup Entity Behaviour](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2078.png)
+![Setup Entity Behaviour](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2079.png)
+![Setup Entity Behaviour](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2080.png)
+![List of rules](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2052.png)
 
 
+</p>
 
+<p align="center">
+<b>To threat hunt you will have to set up a new hunt in Sentinel, go to Sentinel, select Hunting, click on Create a new hunt, specify the hunt name, assign ownership to a user (e.g., your default account), leave the rest of the default settings, and click on Create. The hunt will appear, and you should click on it. Next, create queries to monitor Entra ID accounts by clicking on Query Actions, selecting New Query, specifying the query name and description, and entering the query (e.g., AuditLogs | where OperationName == "Add user"). Select relevant tactics and techniques, typically related to persistence for account creation, and click Create. For a second query to monitor deleted users, click on Query Actions, select New Query, specify the name (e.g., Entra ID Audit Log-Deleted User), click on Valid Accounts, add Cloud Account, check Defense Evasion, and save the hunt..</b> <br/>
 
+![Create Hunting rules](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2062.png)
+![Create Hunting rules](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2063.png)
+![Create Hunting rules](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2064.png)
+![Create Hunting rules](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2065.png)
+![View Hunting Queries](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2068.png)
+</p>
 
-
-
+<p align="center">
+<b>To test the queries, first create a user in Active Directory on your local server. Then, force synchronization to Azure using the PowerShell script:Import-Module ADSync, Start-ADSyncSyncCycle -PolicyType Delta. Next, create a user in Azure Entra ID and delete the user.</b> <br/>
 
 
 </p>
