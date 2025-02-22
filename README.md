@@ -167,7 +167,25 @@
 
 <p align="center">
 <b>To test the queries, first create a user in Active Directory on your local server. Then, force synchronization to Azure using the PowerShell script:Import-Module ADSync, Start-ADSyncSyncCycle -PolicyType Delta. Next, create a user in Azure Entra ID and delete the user.</b> <br/>
+  
+![Create User in AD](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2038.png)
+![Create User in AD](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2039.png)
+![Create User in AD](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2040.png)
+![Synced User to Entra ID](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2041.png)
+![Created User in Entra ID](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2066.png)
+![View User in Entra ID](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2067.png)
+![Queries](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2069.png)
+![Queries](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2070.png)
 
+</p>
 
+<p align="center">
+
+  <b>To automate ticket creation for incidents based on the established queries, create an incident rule.</b> <br/>
+  ![Create Incident rule](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2071.png)
+  ![Create Incident rule](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2072.png)
+  ![Create Incident rule](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2073.png)
+  ![Create Incident rule](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2074.png)
+  
 </p>
 
