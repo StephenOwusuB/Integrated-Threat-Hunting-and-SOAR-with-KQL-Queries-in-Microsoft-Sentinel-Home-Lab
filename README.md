@@ -201,11 +201,14 @@
 
 ## Skills Learned
 
-- **Email Security Configuration**: Gained hands-on experience in setting up SPF, DKIM, and DMARC to secure an organization's email environment.
-- **Domain Management**: Learned how to manage custom domains within Microsoft 365 and navigate domain registrars.
-- **Technical Documentation**: Developed the ability to create clear and professional documentation for technical processes and configurations.
-- **Problem-Solving**: Enhanced problem-solving skills by troubleshooting and resolving issues related to domain verification and email authentication.
-- **Cloud-Based Email Administration**: Improved knowledge of administering and maintaining a cloud-based email environment.
+- **Understanding KQL**: Develop proficiency in crafting and executing KQL queries to analyze and interpret data.
+- **Threat Detection**: Learn how to identify and respond to potential security threats using advanced detection techniques.
+- **Incident Response**: Gain experience in managing and mitigating security incidents through automated and manual response strategies.
+- **Setting Up and Configuring Sentinel**: Understand the process of setting up Microsoft Sentinel, creating rules, and configuring alerts.
+- **Leveraging UEBA**: Learn how to enable and utilize User Entity Behavior Analytics (UEBA) to detect anomalies and suspicious activities.
+- **Automation and SOAR**: Explore the capabilities of SOAR to streamline and automate incident response processes.
+- **Effective Monitoring**: Improve your ability to continuously monitor network and system activities for potential threats.
+- **Hands-on Practice**: Apply theoretical knowledge in a practical, simulated environment to reinforce learning and skill development.
 
 ## Acknowledgments
 
