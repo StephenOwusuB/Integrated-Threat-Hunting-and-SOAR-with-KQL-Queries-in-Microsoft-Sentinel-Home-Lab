@@ -199,4 +199,18 @@
   
 </p>
 
+## Skills Learned
+
+- **Email Security Configuration**: Gained hands-on experience in setting up SPF, DKIM, and DMARC to secure an organization's email environment.
+- **Domain Management**: Learned how to manage custom domains within Microsoft 365 and navigate domain registrars.
+- **Technical Documentation**: Developed the ability to create clear and professional documentation for technical processes and configurations.
+- **Problem-Solving**: Enhanced problem-solving skills by troubleshooting and resolving issues related to domain verification and email authentication.
+- **Cloud-Based Email Administration**: Improved knowledge of administering and maintaining a cloud-based email environment.
+
+## Acknowledgments
+
+Special thanks to all contributors and the community for their support and guidance. This project was inspired by various resources and projects in the cybersecurity and IT fields.
+
+
+
 
