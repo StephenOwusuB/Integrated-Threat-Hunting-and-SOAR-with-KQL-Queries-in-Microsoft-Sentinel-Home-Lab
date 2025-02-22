@@ -176,16 +176,27 @@
 ![View User in Entra ID](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2067.png)
 ![Queries](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2069.png)
 ![Queries](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2070.png)
+![Logs](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2053.png)
+![Logs](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2054.png)
 
 </p>
 
 <p align="center">
-
-  <b>To automate ticket creation for incidents based on the established queries, create an incident rule.</b> <br/>
+<b>To automate ticket creation for incidents based on the established queries, create an incident rule.</b> <br/>
+  
   ![Create Incident rule](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2071.png)
   ![Create Incident rule](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2072.png)
   ![Create Incident rule](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2073.png)
   ![Create Incident rule](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2074.png)
   
 </p>
+
+<p align="center"> 
+<b>Next, review the incident by navigating to the Incidents section in Sentinel. Here, you will find details such as severity, incident number, title, alerts, and incident provider. Select the incident to view a popup on the right with options to change the status, severity, and view full details. When you click on "View full details," you will see the incident timeline, entities, top insights, similar incidents, and evidence.</b> <br/>
+
+  ![View Incident](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2076.png)
+  ![View Full Details](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab/blob/main/images/images/sentinel%2077.png)
+  
+</p>
+
 
